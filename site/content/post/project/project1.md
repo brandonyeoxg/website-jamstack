@@ -8,5 +8,3 @@ categories = []
 showpagemeta = true
 showcomments = true
 +++
-
-Hey there! I am Brandon and I am a Computer Science Student!

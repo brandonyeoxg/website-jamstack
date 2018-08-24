@@ -1,5 +1,4 @@
 +++ 
-title = "First"
 draft = false 
 comments = false 
 slug = "" 
@@ -9,5 +8,3 @@ categories = []
 showpagemeta = true
 showcomments = true
 +++
-
-Hey there

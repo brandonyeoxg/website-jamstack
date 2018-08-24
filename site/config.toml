@@ -59,10 +59,10 @@ highlightjs = true
     name = "project"
     weight = 30
     identifier = "project"
-    url = "project/"
+    url = "post/project/"
 
 [[menu.main]]
-    name = "post"
-    identifier = "post"
+    name = "blog"
+    identifier = "blog"
     weight = 40
-    url = "post/"
+    url = "post/blog/"
